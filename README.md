@@ -23,7 +23,7 @@ Follow these steps to download and replicate "Endless Mario" on your computer:
    - Follow the on-screen instructions to complete the installation.
 
 2. Clone or Download the Project:
-   - Clone the project repository using Git: 
+   - Clone the project repository using Git: https://github.com/indiajacksonphd/Mobile_App_Grad_Project
    - Download from my Amazon Web Services S3 bucket: https://lgphycloudlogs1.s3.amazonaws.com/GradProject_JACKSON_application_folder.zip
    - Download the project as a ZIP file and extract it to a location on your computer.
 
